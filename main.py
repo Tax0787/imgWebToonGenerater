@@ -11,3 +11,6 @@ def main():
   fn += '.html'
   with open(fn, 'w') as fp:
     fp.write(a[1].splitFM(s)(a[1], x))
+
+
+if __name__ == '__main__': main()
